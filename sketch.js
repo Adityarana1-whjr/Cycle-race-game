@@ -1,4 +1,4 @@
-var path,mainCyclist;
+var path,mainCyclist,test;
 var player1,player2,player3;
 var pathImg,mainRacerImg1,mainRacerImg2;
 
